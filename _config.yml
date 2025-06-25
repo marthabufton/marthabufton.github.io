@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Curriculum Vitae"
 title_separator          : "-"
 name                     : &name "Martha Attridge Bufton"
 description              : &description "Academic librarian"
